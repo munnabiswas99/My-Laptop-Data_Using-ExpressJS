@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "brand": "Dell",
+    "model": "Inspiron 15 3520",
+    "processor": "Intel Core i5-1235U",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "price": 720,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "brand": "HP",
+    "model": "Pavilion 14",
+    "processor": "Intel Core i7-1255U",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "price": 880,
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "brand": "Lenovo",
+    "model": "IdeaPad Slim 3",
+    "processor": "AMD Ryzen 5 5500U",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "price": 610,
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "brand": "Asus",
+    "model": "VivoBook 15",
+    "processor": "Intel Core i3-1215U",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "price": 520,
+    "rating": 4.1
+  },
+  {
+    "id": 5,
+    "brand": "Acer",
+    "model": "Aspire 5",
+    "processor": "Intel Core i5-1135G7",
+    "ram": "8GB",
+    "storage": "1TB SSD",
+    "price": 680,
+    "rating": 4.0
+  },
+  {
+    "id": 6,
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "processor": "Apple M1",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "price": 999,
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "brand": "Apple",
+    "model": "MacBook Air M2",
+    "processor": "Apple M2",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "price": 1299,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "brand": "Dell",
+    "model": "XPS 13 Plus",
+    "processor": "Intel Core i7-1270P",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "price": 1650,
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "brand": "HP",
+    "model": "Envy 16",
+    "processor": "Intel Core i9-12900H",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "price": 1850,
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "brand": "Asus",
+    "model": "ROG Strix G15",
+    "processor": "AMD Ryzen 7 6800H",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "price": 1500,
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "brand": "MSI",
+    "model": "GF63 Thin",
+    "processor": "Intel Core i5-11400H",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "price": 950,
+    "rating": 4.3
+  },
+  {
+    "id": 12,
+    "brand": "Razer",
+    "model": "Blade 15",
+    "processor": "Intel Core i7-11800H",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "price": 2100,
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "brand": "Samsung",
+    "model": "Galaxy Book Pro",
+    "processor": "Intel Core i5-1135G7",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "price": 780,
+    "rating": 4.2
+  },
+  {
+    "id": 14,
+    "brand": "Microsoft",
+    "model": "Surface Laptop 5",
+    "processor": "Intel Core i7-1255U",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "price": 1450,
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon Gen 10",
+    "processor": "Intel Core i7-1260P",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "price": 1700,
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "brand": "Acer",
+    "model": "Nitro 5",
+    "processor": "Intel Core i5-12500H",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "price": 1050,
+    "rating": 4.4
+  },
+  {
+    "id": 17,
+    "brand": "Asus",
+    "model": "TUF Gaming F15",
+    "processor": "Intel Core i7-11800H",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "price": 1300,
+    "rating": 4.5
+  },
+  {
+    "id": 18,
+    "brand": "HP",
+    "model": "Victus 16",
+    "processor": "AMD Ryzen 5 5600H",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "price": 980,
+    "rating": 4.3
+  },
+  {
+    "id": 19,
+    "brand": "Dell",
+    "model": "Latitude 7420",
+    "processor": "Intel Core i7-1185G7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "price": 1350,
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "brand": "Huawei",
+    "model": "MateBook D15",
+    "processor": "Intel Core i5-1155G7",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "price": 730,
+    "rating": 4.2
+  }
+]
